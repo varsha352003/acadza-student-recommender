@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+
+# Debug folder
+debug/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Project specific
+*.egg-info/
+.DS_Store
