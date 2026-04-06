@@ -1,8 +1,6 @@
 # Virtual Environment
 venv/
 
-# Debug folder
-debug/
 
 # Python cache
 __pycache__/
